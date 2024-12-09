@@ -4,11 +4,20 @@
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white" alt="RabbitMQ">
     <img src="https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white" alt="PyPI">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=for-the-badge" alt="License">
 </p>
 
 `rabbitmq_rpc` is a powerful Python package that simplifies the implementation of RPC (Remote Procedure Call) patterns in event-driven microservices. Built on top of the `aio-pika` library, it abstracts the complexities of asynchronous communication with RabbitMQ, providing a seamless and efficient experience for developers.
 
 ---
+
+
+| **Source Code** | **Website** |
+|:-----------------|:------------|
+| <a href="https://github.com/deepmancer/rabbitmq-rpc" target="_blank">github.com/deepmancer/rabbitmq-rpc</a> | <a href="https://deepmancer.github.io/rabbitmq-rpc/" target="_blank">deepmancer.github.io/rabbitmq-rpc</a> |
+
+---
+
 
 ## ✨ Features
 
